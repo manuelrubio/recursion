@@ -14,7 +14,7 @@ This repository contains all of the code that appears in the book:
 
 The software is a collection of Python 3 source code files. 
 
-The code is used in the **open** course **Design and Analysis of Algorithms** at *Universidad Rey Juan Carlos*. Students and professors can access diverse content related to the course such as *slides*, *notes*, *exercises*, *previous exams*, *short videos*, etc., including the source files and images that can be used to generate these materials.
+The code is used in the **open** course **Design and Analysis of Algorithms** at *Universidad Rey Juan Carlos*. Students and professors can access diverse content related to the course such as *slides*, *notes*, *exercises*, *previous exams*, *short videos*, etc. (in Spanish), including the source files and images that can be used to generate these materials.
 
 
 **Instructions**
