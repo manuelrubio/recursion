@@ -8,11 +8,11 @@ English
 
 **Description**
 
-This repository contains adapted code (some in Spanish) that appears in the book:
+This repository contains adapted code (most in Spanish) that appears in the book:
 
 * Manuel Rubio-Sánchez. *Introduction to Recursive Programming*. Taylor & Francis, first edition, 2018.
 
-The original code can be found in https://sites.google.com/view/recursiveprogrammingintro/code
+The original code (in English) can be found in https://sites.google.com/view/recursiveprogrammingintro/code
 
 The software is a collection of Python 3 source code files. 
 
